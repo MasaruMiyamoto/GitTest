@@ -17,7 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    //テストなう
+    //テストなう for Mac Book Air
     self.lbl.text = @"test";
 	// Do any additional setup after loading the view, typically from a nib.
 }
